@@ -1,10 +1,11 @@
 ### Hi there, I am Delowar Hossain. 
-##### A business graduate who loves to code. I have completed my BBA and MBA from [University of Chittagong](https://cu.ac.bd/) .I have completed more than 50+ projects.
+##### A business graduate who loves to code. I have completed my BBA and MBA from [University of Chittagong](https://cu.ac.bd/). I have completed more than 50+ projects.
 
 ### SKILLS
 * PHP
 * Laravel
 * Javascript
+* Vue
 * Bootstrap
 * Tailwind
 * and of course HTML and CSS
