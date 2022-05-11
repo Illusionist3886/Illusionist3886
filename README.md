@@ -1,8 +1,6 @@
 ### Hi there, I am Delowar Hossain. 
 ##### A business graduate who loves to code. I have completed my BBA and MBA from [University of Chittagong](https://cu.ac.bd/). I have completed more than 50+ projects.
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=illusionist3886)](https://git.io/streak-stats)
-
 ### ACHIEVEMENT
 
   **2nd Place, BITM Web Design Course** <br/>
