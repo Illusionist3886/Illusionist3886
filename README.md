@@ -2,7 +2,7 @@
 ##### A business graduate who loves to code. I have completed my BBA and MBA from [University of Chittagong](https://cu.ac.bd/). I have completed more than 50+ projects.
 
 ### Open Source Contribution
-<a href="[https://laravel.com](https://github.com/laravel/framework/pulls?q=is%3Amerged+author%3Aillusionist3886)" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="80"></a>
+<a href="https://github.com/laravel/framework/pulls?q=is%3Amerged+author%3Aillusionist3886" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="80"></a>
 
 ### ACHIEVEMENT
 
