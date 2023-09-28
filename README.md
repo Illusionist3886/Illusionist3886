@@ -1,5 +1,5 @@
 ### Hi there, I am Delowar Hossain. 
-##### A business graduate who loves to code. I have completed my BBA and MBA from [University of Chittagong](https://cu.ac.bd/). I have completed more than 50+ projects.
+A business graduate who loves to code. I have completed my BBA and MBA from [University of Chittagong](https://cu.ac.bd/). I have completed more than 50+ projects.
 
 ### Open Source Contribution
 <a href="https://github.com/laravel/framework/pulls?q=is%3Amerged+author%3Aillusionist3886" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="80"></a>
@@ -16,11 +16,11 @@
 
 Personal Projects:
 -	[Health Care](https://www.e-healthbd.com)
-  > Health Care Service providing system. Users can search for doctors according to hospital, location and specialty. User can also book appointment, order medicine, take diagnostic reports with ease.
+  > Health Care Service providing system. Users can search for doctors according to hospital, location, and specialty. Users can also book appointments, order medicine, and take diagnostic reports with ease.
 -	[Pilot Payroll Management](https://www.crystalaironline.com)
-  > Pilots have to perform varieties of duties like “on duty”, “off duty”, “charter flight”, “flight instruction”, “office work” etc. I had to create a dashboard where authority can add pilots and pilots can user their custom dashboard to entry different type of works along with time range. Finally, authority can generate payroll based on these inputs.
+  > Pilots have to perform varieties of duties like “on duty”, “off duty”, “charter flight”, “flight instruction”, “office work” etc. I had to create a dashboard where authority can add pilots and pilots can use their custom dashboard to enter different types of works along with time range. Finally, authority can generate payroll based on these inputs.
 -	[Image Based Authentication System](http://beta.passnumber.com)
-  > One of the most secured authentication systems which completely removes the threat of Key-Loggers, Man in the Middle Attack, Shouldering Attack. Therefore, user can login to       their accounts from any place. And the fun part is, even a three years old kid can create a un-hackable password.
+  > One of the most secured authentication systems that completely removes the threat of Key-Loggers, Man in the Middle Attack, and Shouldering Attack. Therefore, user can log in to       their accounts from any place. And the fun part is, even a three-year-old kid can create an un-hackable password.
 
 ### CONTACT 📫
 
